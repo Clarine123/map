@@ -1,0 +1,13 @@
+{
+"name":"ahaha la lng",
+"description":"Pang bata ahh!",
+"launch_path": "/awe.html",
+"icons":{
+	"128": "icon.png"	
+},
+"developer":{
+	"name": "Mrfluffy",
+	"url":"http://wala.com"
+},
+"default_locale":"en"
+}
